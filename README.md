@@ -37,7 +37,7 @@ For image attribution:
 
 ## Testing using pre-trained models
 - Provide the test path in respective codes as sepecified below
-- Download the pre-trained models from 
+- Download the pre-trained models from https://drive.google.com/drive/folders/1bzh9Pvr7L-NyQ2Mk-TBSlSq4TkMn2anB?usp=sharing
 - Provide the model path in the code
 - Run the code
 
