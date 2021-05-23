@@ -7,8 +7,8 @@ from scipy import fftpack
 import numpy as np
 from torch import nn
 import datetime
-import encoder_deepfake
-import fen
+from models import encoder_deepfake
+from models import fen
 import torch.nn.functional as F
 from sklearn.metrics import accuracy_score
 from sklearn import metrics
