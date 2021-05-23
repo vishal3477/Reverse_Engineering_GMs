@@ -8,8 +8,8 @@ from scipy import fftpack
 import numpy as np
 from torch import nn
 import datetime
-import encoder_image_attr
-import fen
+from models import encoder_image_attr
+from models import fen
 import torch.nn.functional as F
 from sklearn.metrics import accuracy_score
 from sklearn import metrics
@@ -61,7 +61,7 @@ test_loader = torch.utils.data.DataLoader(test_set,batch_size=opt.batch_size,shu
 
 
 
-model=DnCNN().to(device)
+model=fen.DnCNN().to(device)
   
 model_params = list(model.parameters())    
 optimizer = torch.optim.Adam(model_params, lr=opt.lr)
