@@ -21,10 +21,12 @@ For deepfake detection:
 - Download the CelebA/LSUN dataset
 
 For image_attribution:
-- Generate the data for four different GAN models as specified in https://github.com/ningyu1991/GANFingerprints/
+- Generate 110,000 images for four different GAN models as specified in https://github.com/ningyu1991/GANFingerprints/
+- For real images, use 110,000 of CelebA dataset.
+- For training: we used 100,000 images and remaining 10,000 for testing.
 
 ## Training
-- Provide the train and test path in respective codes as sepecified below
+- Provide the train and test path in respective codes as sepecified below. 
 - Provide the model path to resume training
 - Run the code
 
