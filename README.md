@@ -1,6 +1,6 @@
 # Reverse_Engineering_GMs
 Official Pytorch implementation of paper "Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images"
-
+![alt text](https://github.com/vishal3477/Reverse_Engineering_GMs/blob/main/image/teaser.png?raw=true)
 ## Prerequisites
 
 - PyTorch 1.5.0
