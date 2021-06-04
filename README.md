@@ -13,7 +13,7 @@ Official Pytorch implementation of paper "Reverse Engineering of Generative Mode
 
 ## Datasets
 For reverse enginnering: 
-- Download the dataset for 100 Gdenerative models from https://drive.google.com/drive/folders/1uRlrJDgV8yzTVqx62p8IAIHd7oDfhFYv?usp=sharing
+- Download the dataset for 100 Gdenerative models from https://drive.google.com/drive/folders/1ZKQ3t7_Hip9DO6uwljZL4rYAn5viSRhu?usp=sharing
 - For leave out experiment, put the training data in train folder and leave out models data in test folder
 - For testing on custom images, put the data in test folder.
 
