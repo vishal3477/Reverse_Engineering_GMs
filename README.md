@@ -55,7 +55,7 @@ For image attribution:
 - Run image_attribution_test.py
 
 If you would like to use our work, please cite:
-
+'''
 @misc{asnani2021reverse,
       title={Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images}, 
       author={Vishal Asnani and Xi Yin and Tal Hassner and Xiaoming Liu},
@@ -64,3 +64,4 @@ If you would like to use our work, please cite:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+'''
