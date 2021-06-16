@@ -30,14 +30,20 @@ For image_attribution:
 - Provide the model path to resume training
 - Run the code
 
-For reverse engineering:
-- Run reverse_eng.py
+For reverse engineering, run:
+```
+python reverse_eng.py
+```
 
-For deepfake detection: 
-- Run deepfake_detection.py
+For deepfake detection, run: 
+```
+python deepfake_detection.py
+```
 
-For image attribution:
-- Run image_attribution.py
+For image attribution, run:
+```
+python image_attribution.py
+```
 
 ## Testing using pre-trained models
 - Provide the test path in respective codes as sepecified below
