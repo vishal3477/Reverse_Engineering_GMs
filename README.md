@@ -45,14 +45,18 @@ For image attribution:
 - Provide the model path in the code
 - Run the code
 
-For reverse engineering:
-- Run reverse_eng_test.py
-
-For deepfake detection: 
-- Run deepfake_detection_test.py
-
-For image attribution:
-- Run image_attribution_test.py
+For reverse engineering, run:
+```
+python reverse_eng_test.py
+```
+For deepfake detection, run: 
+```
+python deepfake_detection_test.py
+```
+For image attribution, run: 
+```
+python image_attribution_test.py
+```
 
 If you would like to use our work, please cite:
 ```
