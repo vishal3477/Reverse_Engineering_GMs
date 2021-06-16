@@ -53,3 +53,14 @@ For deepfake detection:
 
 For image attribution:
 - Run image_attribution_test.py
+
+If you would like to use our work, please cite:
+
+@misc{asnani2021reverse,
+      title={Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images}, 
+      author={Vishal Asnani and Xi Yin and Tal Hassner and Xiaoming Liu},
+      year={2021},
+      eprint={2106.07873},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
