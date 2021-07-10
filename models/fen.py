@@ -7,8 +7,6 @@ from scipy import fftpack
 import numpy as np
 from torch import nn
 import datetime
-import encoder_deepfake
-import fen
 import torch.nn.functional as F
 from sklearn.metrics import accuracy_score
 from sklearn import metrics
@@ -33,7 +31,7 @@ def fftshift(real, imag):
 
 
 class DnCNN(nn.Module):
-    def __init__(self, num_layers=31, num_features=64):
+    def __init__(self, num_layers=17, num_features=64):
         super(DnCNN, self).__init__()
         layers = [nn.Sequential(nn.Conv2d(3, num_features, kernel_size=3, stride=1, padding=1),
                                 nn.ReLU(inplace=True))]
