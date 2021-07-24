@@ -65,7 +65,7 @@ test_set=datasets.ImageFolder(test_path, transform_train)
 test_loader = torch.utils.data.DataLoader(test_set,batch_size=32,shuffle =True, num_workers=1)
 
 
-model=fen.DnCNN().to(device)
+model=fen.DnCNN(num_layers=31).to(device)
     
 model_params = list(model.parameters())    
 optimizer = torch.optim.Adam(model_params, lr=opt.lr)
