@@ -3,6 +3,8 @@ Official Pytorch implementation of paper "Reverse Engineering of Generative Mode
 
 The paper and supplementary can be found at https://arxiv.org/abs/2106.07873
 
+Check out the Model Parsing v2 releadse for the updated code!!
+
 
 ![alt text](https://github.com/vishal3477/Reverse_Engineering_GMs/blob/main/image/teaser_resized.png?raw=true)
 ## Prerequisites
@@ -15,7 +17,7 @@ The paper and supplementary can be found at https://arxiv.org/abs/2106.07873
 
 ## Datasets
 For reverse enginnering: 
-- Download the dataset for 100 Gdenerative models from https://drive.google.com/drive/folders/1ZKQ3t7_Hip9DO6uwljZL4rYAn5viSRhu?usp=sharing
+- Download the dataset for 116 Gdenerative models from https://drive.google.com/file/d/1bAmC_9aMkWJB_scGvOOWvNeLa9FBoMUr/view?usp=share_link
 - For leave out experiment, put the training data in train folder and leave out models data in test folder
 - For testing on custom images, put the data in test folder.
 
