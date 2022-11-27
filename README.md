@@ -3,7 +3,7 @@ Official Pytorch implementation of paper "Reverse Engineering of Generative Mode
 
 The paper and supplementary can be found at https://arxiv.org/abs/2106.07873
 
-Check out the Model Parsing v2 releadse for the updated code!!
+Check out the Model Parsing v2 release for the updated code!!
 
 
 ![alt text](https://github.com/vishal3477/Reverse_Engineering_GMs/blob/main/image/teaser_resized.png?raw=true)
