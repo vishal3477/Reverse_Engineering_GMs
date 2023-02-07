@@ -17,7 +17,7 @@ Check out the Model Parsing v2 release for the updated code!!
 
 ## Datasets
 For reverse enginnering: 
-- Download the dataset for 116 Generative models from https://drive.google.com/file/d/1bAmC_9aMkWJB_scGvOOWvNeLa9FBoMUr/view?usp=share_link
+- Download the dataset for 116 Generative models from https://drive.google.com/file/d/1bAmC_9aMkWJB_scGvOOWvNeLa9FBoMUr/view?usp=sharing
 - For leave out experiment, put the training data in train folder and leave out models data in test folder
 - For testing on custom images, put the data in test folder.
 
