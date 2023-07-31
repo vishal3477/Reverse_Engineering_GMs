@@ -47,7 +47,7 @@ For image_attribution:
 - For real images, use 110,000 of CelebA dataset.
 - For training: we used 100,000 images and remaining 10,000 for testing.
 
-## Training
+### Training
 - Provide the train and test path in respective codes as sepecified below. 
 - Provide the model path to resume training
 - Run the code
@@ -67,7 +67,7 @@ For image attribution, run:
 python image_attribution.py
 ```
 
-## Testing using pre-trained models
+### Testing using pre-trained models
 - Provide the test path in respective codes as sepecified below
 - Download the pre-trained models from https://drive.google.com/drive/folders/1bzh9Pvr7L-NyQ2Mk-TBSlSq4TkMn2anB?usp=sharing
 - Provide the model path in the code
@@ -88,12 +88,10 @@ python image_attribution_test.py
 
 If you would like to use our work, please cite:
 ```
-@misc{asnani2021reverse,
+@misc{asnani2023reverse,
       title={Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images}, 
       author={Vishal Asnani and Xi Yin and Tal Hassner and Xiaoming Liu},
-      year={2021},
-      eprint={2106.07873},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+      year={2023}
 }
 ```
