@@ -1,11 +1,24 @@
-# Reverse_Engineering_GMs
+# <p align=center>`Model Parsing (IEEE TPAMI)`</p>
 Official Pytorch implementation of our **T-PAMI** paper "Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images".
 
-The paper and supplementary can be found at https://arxiv.org/abs/2106.07873
+The paper and supplementary can be found at [Arxiv](https://arxiv.org/abs/2106.07873) 
 
-Our Paper is accepted to **Transactions on Pattern Analysis and Machine Intelligence**.  
+> **Authors:** 
+> [Vishal Asnani](https://vishal3477.github.io/), 
+> [Xi Yin](https://xiyinmsu.github.io/), 
+> [Tal Hassner](https://mmcheng.net/) &
+> [Xiaoming Liu](https://www.cse.msu.edu/~liuxm/index2.html).
 
+## 1. :fire: NEWS :fire:
 
+- [2023/07/29] Our Paper is accepted to **Transactions on Pattern Analysis and Machine Intelligence**!!
+- [2023/07/29] The version 3 of the code is released!
+- [2022/06/30] The version 2 of the code is released!
+- [2022/01/06] Our codebase for model parsing is released is released!
+
+<p align="center">
+    <img src="./image/easer_resized.png"/> <br />
+</p>
 ![alt text](https://github.com/vishal3477/Reverse_Engineering_GMs/blob/main/image/teaser_resized.png?raw=true)
 ## Prerequisites
 
