@@ -1,9 +1,9 @@
 # Reverse_Engineering_GMs
-Official Pytorch implementation of paper "Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images".
+Official Pytorch implementation of our **T-PAMI** paper "Reverse Engineering of Generative Models: Inferring Model Hyperparameters from Generated Images".
 
 The paper and supplementary can be found at https://arxiv.org/abs/2106.07873
 
-Check out the Model Parsing v2 release for the updated code!!
+Our Paper is accepted to **Transactions on Pattern Analysis and Machine Intelligence**.  
 
 
 ![alt text](https://github.com/vishal3477/Reverse_Engineering_GMs/blob/main/image/teaser_resized.png?raw=true)
@@ -16,8 +16,10 @@ Check out the Model Parsing v2 release for the updated code!!
 ## Getting Started
 
 ## Datasets
+
+We collect a large scale dataset comprising of fake images images genearted by 116 generative models. Please visit [link]() for more details. 
 For reverse enginnering: 
-- Download the dataset for 116 Generative models from https://drive.google.com/file/d/1bAmC_9aMkWJB_scGvOOWvNeLa9FBoMUr/view?usp=sharing
+- Download the dataset and the ground truth files from the [dataset website](). 
 - For leave out experiment, put the training data in train folder and leave out models data in test folder
 - For testing on custom images, put the data in test folder.
 
