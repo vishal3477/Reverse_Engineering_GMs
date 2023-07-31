@@ -16,19 +16,22 @@ The paper and supplementary can be found at [Arxiv](https://arxiv.org/abs/2106.0
 - [2022/06/30] The version 2 of the code is released!
 - [2022/01/06] Our codebase for model parsing is released is released!
 
+## 2. Overview
 <p align="center">
     <img src="./image/teaser_resized.png"/> <br />
 </p>
-![alt text](https://github.com/vishal3477/Reverse_Engineering_GMs/blob/main/image/teaser_resized.png?raw=true)
-## Prerequisites
+
+## 3. Training/testing
+
+
+### Prerequisites
 
 - PyTorch 1.5.0
 - Numpy 1.14.2
 - Scikit-learn 0.22.2
 
-## Getting Started
 
-## Datasets
+### Datasets
 
 We collect a large scale dataset comprising of fake images images genearted by 116 generative models. Please visit [link]() for more details. 
 For reverse enginnering: 
