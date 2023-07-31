@@ -17,7 +17,7 @@ The paper and supplementary can be found at [Arxiv](https://arxiv.org/abs/2106.0
 - [2022/01/06] Our codebase for model parsing is released is released!
 
 <p align="center">
-    <img src="./image/easer_resized.png"/> <br />
+    <img src="./image/teaser_resized.png"/> <br />
 </p>
 ![alt text](https://github.com/vishal3477/Reverse_Engineering_GMs/blob/main/image/teaser_resized.png?raw=true)
 ## Prerequisites
