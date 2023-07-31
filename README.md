@@ -14,7 +14,9 @@ The paper and supplementary can be found at [Arxiv](https://arxiv.org/abs/2106.0
 - [2023/07/29] Our Paper is accepted to **Transactions on Pattern Analysis and Machine Intelligence**!!
 - [2023/07/29] The version 3 of the code is released!
 - [2022/06/30] The version 2 of the code is released!
-- [2022/01/06] Our codebase for model parsing is released is released!
+- [2021/06/15] In collaboration with Meta AI, our model parsing work is widely reported in [CNBC](https://www.cnbc.com/2021/06/16/facebook-scientists-say-they-can-tell-where-deepfakes-come-from.html), [CNET](https://www.cnet.com/news/privacy/facebook-steps-up-efforts-to-study-deepfakes/?PostType=link&ServiceType=twitter&TheTime=2021-06-16T16%3A03%3A06&UniqueID=5656784E-CEBC-11EB-BC13-31D94744363C&ftag=COS-05-10aaa0b), [Engadget](https://www.engadget.com/facebooks-latest-ai-detects-deep-fakes-and-knows-where-they-came-from-160012532.html), [Fortune](https://fortune.com/2021/06/16/facebook-detecting-deepfakes-research-michigan-state/), [The Mac Observer](https://www.macobserver.com/news/facebook-msu-deepfake-detection/), [MSU Today](https://msutoday.msu.edu/news/2021/deepfake-detection), [New Scientist](https://www.newscientist.com/article/2281198-facebook-ai-aims-to-identify-deepfake-images-and-trace-their-creators/), [SiliconAngle](https://siliconangle.com/2021/06/16/facebook-reverse-engineering-deepfakes-detect-ai-models-used-create/), [VentureBeat](https://venturebeat.com/business/facebooks-ai-reverse-engineers-models-used-to-generate-deepfakes/), [The Verge](https://www.theverge.com/2021/6/16/22534690/facebook-deepfake-detection-reverse-engineer-ai-model-hyperparameters), and [Wall Street Journal](https://www.wsj.com/articles/facebook-michigan-state-develop-deepfake-detection-technique-11623859200).
+
+- [2021/05/06] Our codebase for model parsing is released is released!
 
 ## 2. Overview
 <p align="center">
