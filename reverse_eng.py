@@ -318,5 +318,5 @@ for epoch in range(epochs):
     torch.save(all_features_loss_98, '%s/result_3/%s/out_features_loss9_test_8_%d.pickle' % (save_dir, sig, epoch))
     
     torch.save(all_y_test, '%s/result_3/%s/out_y_test_%d.pickle' % (save_dir, sig, epoch))
-
+ 
     
