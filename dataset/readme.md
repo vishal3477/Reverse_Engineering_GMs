@@ -9,7 +9,7 @@ We make the first attempt to study the model parsing problem. we assemble a list
 We further document the model hyperparameters for each GM as reported in their papers. Specifically, we investigate two aspects: network architecture and training loss functions. We form a super-set of 15 network architecture parameters (e.g., number of layers, normalization type) and 10 different loss function types
 
 <p align="center">
-    <img src="../imgs/Screenshot 2023-07-31 at 7.58.48 PM.png"/> <br />
+    <img src="../image/Screenshot 2023-07-31 at 7.58.48 PM.png"/> <br />
 </p>
 
 ## 2. Dataset images
