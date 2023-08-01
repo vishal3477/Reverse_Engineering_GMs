@@ -16,6 +16,11 @@ We further document the model hyperparameters for each GM as reported in their p
 
 The images can be found on the google drive using the the [link](https://drive.google.com/file/d/1bAmC_9aMkWJB_scGvOOWvNeLa9FBoMUr/view). 
 
+Some sample images are shown below:
+
+<p align="center">
+    <img src="../image/Screenshot 2023-07-31 at 8.01.15 PM.png"/> <br />
+</p>
 
 ## 3. Ground-truth files
 We provide the numpy files for cluster ground truth and deviation ground-truth, both for network architecture and loss function for each generative model. 
