@@ -35,9 +35,9 @@ The paper and supplementary can be found at [Arxiv](https://arxiv.org/abs/2106.0
 
 ### Datasets
 
-We collect a large scale dataset comprising of fake images images genearted by 116 generative models. Please visit [link]() for more details. 
+We collect a large scale dataset comprising of fake images images genearted by 116 generative models. Please visit [link](https://github.com/vishal3477/Reverse_Engineering_GMs/blob/main/dataset/readme.md) for more details. 
 For reverse enginnering: 
-- Download the dataset and the ground truth files from the [dataset website](). 
+- Download the model parsing dataset and the ground truth files by following the instructions from [here](https://github.com/vishal3477/Reverse_Engineering_GMs/blob/main/dataset/readme.md). 
 - For leave out experiment, put the training data in train folder and leave out models data in test folder
 - For testing on custom images, put the data in test folder.
 
