@@ -25,5 +25,10 @@ Some sample images for each GM are shown below:
 ## 3. Ground-truth files
 We provide the numpy files for cluster ground truth and deviation ground-truth, both for network architecture and loss function for each generative model. 
 
+## 4. Diffusion Model Dataset
+The dataset for 7 diffusion models used for our experiemnts can be downloaded from [link](https://drive.google.com/drive/folders/1S9Y2LtP7ZHNDOjuR7mp5tx4LxuhG5EPy?usp=drive_link).
+
+The ground truth files are available in the directory. 
+
 ## 4. License
 The dataset can be used for research purposes only. Please contact me via [email](asnanivi@msu.edu) for commercial usage permission.
