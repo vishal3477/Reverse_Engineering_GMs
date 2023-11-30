@@ -30,5 +30,5 @@ The dataset for 7 diffusion models used for our experiemnts can be downloaded fr
 
 The ground truth files are available in the directory. 
 
-## 4. License
+## 5. License
 The dataset can be used for research purposes only. Please contact me via [email](asnanivi@msu.edu) for commercial usage permission.
